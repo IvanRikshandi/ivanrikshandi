@@ -43,4 +43,4 @@
 ##  🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/ivan-rikshandi-495344194/"><img src="https://img.shields.io/badge/-Ivan%20Rikshandi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rikshandii@gmail.com"><img src="https://img.shields.io/badge/-rikshandii@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:rikshandii@gmail.com"><img src="https://img.shields.io/badge/-rikshandii@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
