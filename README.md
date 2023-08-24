@@ -4,7 +4,7 @@ Perkenalkan nama saya **Ivan Rikshandi**.
 
 Saya seorang **MAHASISWA** di [Universitas Islam Syekh Yusuf](https://unis.ac.id/).
 
-Saya merupakan mahasiswa aktif program studi Teknik Informatika dengan konsentrasi Rekayasa Perangkat Lunak tahun, dengan IPK 3.63 .
+Saya merupakan mahasiswa aktif program studi Teknik Informatika dengan konsentrasi Rekayasa Perangkat Lunak, dengan IPK 3.63 .
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ivan-rikshandi-495344194/)ku ya.
 <!--
