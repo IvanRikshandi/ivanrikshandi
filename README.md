@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Computer Science at [Universitas Islam Syekh Yusuf](https://unis.ac.id/).
+- 🎓 &nbsp; Bachelor Degree of Computer Science at [Universitas Islam Syekh Yusuf](https://unis.ac.id/).
 
 ### 🛠 &nbsp;Tech Stack
 
